@@ -914,9 +914,9 @@ if __name__ == '__main__':
         if phone:
             break
     try:
-        Time = float(input(f'{g}[?] {y}Enter Sleep Time Between Requests {g}[Defult=0.1] {r}- {a}'))
+        Time = float(input(f'{g}[?] {y}Enter Sleep Time Between Requests {g}[Defult=0.9] {r}- {a}'))
     except ValueError:
-        Time = 0.1
+        Time = 0.9
         print(f"{g}[0.9] {a}Used")
     while True:
         try: Vip(phone, Time)
@@ -924,5 +924,6 @@ if __name__ == '__main__':
         except: print(f'{r}[-] Error TimeOut')
 
 # Made by salesestrol
+
 
 
