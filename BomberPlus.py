@@ -900,7 +900,7 @@ if __name__ == '__main__':
 {g}⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆
 {y}Info:
     {g}[✓] {y}Coder: {a}@One_Of_The_Anonimous
-    {g}[✓] {y}Telegramuser: {a}@sales
+    {g}[✓] {y}Telegramuser: {a}@salesestrol
 	{g}[✓] {y}my tag: {a}#sales_estrol
     
 {y}system:
@@ -917,11 +917,12 @@ if __name__ == '__main__':
         Time = float(input(f'{g}[?] {y}Enter Sleep Time Between Requests {g}[Defult=0.1] {r}- {a}'))
     except ValueError:
         Time = 0.1
-        print(f"{g}[0.1] {a}Used")
+        print(f"{g}[0.9] {a}Used")
     while True:
         try: Vip(phone, Time)
         except KeyboardInterrupt: exit(f'{r}[-] User Exited')
         except: print(f'{r}[-] Error TimeOut')
 
-# Made by poyan teror
+# Made by salesestrol
+
 
