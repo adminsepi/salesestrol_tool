@@ -899,8 +899,9 @@ if __name__ == '__main__':
 ⠀⠀⠀⠀⠀⠀⠀ 
 {g}⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆
 {y}Info:
-    {g}[✓] {y}Coder: {a}@poyan hackers
-    {g}[✓] {y}Telegramuser: {a}@godalaah
+    {g}[✓] {y}Coder: {a}@One_Of_The_Anonimous
+    {g}[✓] {y}Telegramuser: {a}@sales
+	{g}[✓] {y}my tag: {a}#sales_estrol
     
 {y}system:
     {g}[✓]{y}Platform: {a}{System}
@@ -923,3 +924,4 @@ if __name__ == '__main__':
         except: print(f'{r}[-] Error TimeOut')
 
 # Made by poyan teror
+
